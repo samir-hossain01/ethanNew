@@ -195,5 +195,11 @@ padding-top: 80px;
         display: none;
     }
 }
+@media (max-width: 575.98px) {
+    .mobileCOl{
+        display: none;
+    }
+    
+}
 `;
 export default Wrapper;
